@@ -13,16 +13,3 @@ MBTI-Personality-Test/: This folder contains all code related to the MBTI test, 
 README.md: A detailed explanation of how the MBTI test works and how to run it in the provided Colab environment.
 main.py: The main Python script that handles the interaction with the NVIDIA API and processes user input.
 utils.py: Helper functions for parsing user input and managing responses.
-
-
-Installation and Usage:
-(1) Clone the repository(bash):
-git clone https://github.com/HiChester/LLMs-Application.git
-cd LLMs-Application/MBTI-Personality-Test
-
-(2) Install the necessary dependencies(bash):
-!pip install langchain langchain_nvidia_ai_endpoints rich
-
-(3) Set up your NVIDIA API key(bash):
-import os
-os.environ['NVIDIA_API_KEY'] = 'your_api_key_here'
