@@ -1,4 +1,4 @@
-"""Nvidia LLM RAG Agent_P1
+"""
 This project idea is inspired by the larger NVIDIA [Deep Learning Institute course](https://www.nvidia.com/en-us/training/) titled [Building RAG Agents with LLMs.](https://www.nvidia.com/en-sg/training/instructor-led-workshops/building-rag-agents-with-llms//)
 """
 
