@@ -1,4 +1,4 @@
-MBTI Quick Personality Test
+MBTI-Personality-Test
 
 This project aims to simplify the 16-type MBTI personality test, enabling users to quickly and easily determine their MBTI personality type. By integrating advanced language models and streamlined interaction, users can answer a few key questions to discover their MBTI type without the need for a lengthy questionnaire.
 
