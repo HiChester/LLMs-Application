@@ -1,7 +1,7 @@
 # LLMs-Application
 
 Project Overview
-1. MBTI-Personality-Test
+1. MBTI-Personality-Test：
 The MBTI-Personality-Test project aims to simplify the traditional 16-type MBTI personality test, reducing it to a series of key questions designed to quickly identify a user's personality type. This test leverages advanced LLM models and AI tools to analyze user responses and provide a four-letter MBTI code representing their personality type.
 
 Features:
