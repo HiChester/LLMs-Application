@@ -22,10 +22,7 @@ You can access the notebook through the following link: Colab Notebook.
 Set up the NVIDIA API key:
 
 Get your NVIDIA API key from the NVIDIA API Catalog.
-In the Colab environment, create a new environment variable by running the following in a code cell:
-python
-複製程式碼
-!export NVIDIA_API_KEY=your_api_key_here
+
 Run the Notebook:
 
 Simply execute all the cells in the Colab notebook to initialize the personality test. The notebook will prompt you with a few MBTI-related questions and provide your MBTI type based on your responses.
